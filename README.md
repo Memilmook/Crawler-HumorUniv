@@ -9,3 +9,5 @@ After git clone, follow these:
    - virtualenv venv
    - venv\Scripts\activate (Or "source venv/bin/activate" in Mac)
    - pip install -r requirements.txt
+
+3) python crawler.py

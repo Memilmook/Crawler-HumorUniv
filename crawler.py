@@ -5,8 +5,7 @@ from fake_useragent import UserAgent
 import time
 import csv
 
-# 미니 프로젝트 
-# written by 박재균
+# 미니 프로젝트
 
 # 클래스 형태로 크롤러를 제작합니다.
 # 각 기능별로 상세하게 메소드로 분리 후 역할에 맞게 작성합니다.

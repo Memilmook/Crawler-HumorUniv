@@ -11,3 +11,6 @@ After git clone, follow these:
    - pip install -r requirements.txt
 
 3) python crawler.py
+
+
+You can open the comments.html in the rendered form by https://htmlpreview.github.io/?https://github.com/japark/Crawler-HumorUniv/blob/master/comments.html.

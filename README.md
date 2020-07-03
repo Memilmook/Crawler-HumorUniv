@@ -13,5 +13,5 @@ After git clone, follow these:
 3) python crawler.py
 
 
-You can open the comments.html in the rendered form by click this:  
+You can open the comments.html in the rendered form by this:  
 https://htmlpreview.github.io/?https://github.com/japark/Crawler-HumorUniv/blob/master/comments.html
